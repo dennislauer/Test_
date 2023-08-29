@@ -1,5 +1,4 @@
-Welcome to MkDocs
-MkLorum
+TEST
 
 ## Commands
 
