@@ -3,6 +3,6 @@ site_url: https://example.com/
 nav:
   - Home: index.md
   - About: about.md
-  - Code_Test: code_test.md
+  - Code_Test: dev-k3s-rls.md
   
 theme: readthedocs
