@@ -1,4 +1,4 @@
-site_name: MkLorum
+site_name: Test
 site_url: https://example.com/
 nav:
   - Home: index.md
