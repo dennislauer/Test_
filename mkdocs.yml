@@ -4,5 +4,6 @@ nav:
   - Home: index.md
   - About: about.md
   - k3s: Dev-k3s-rls.md
+  - code_test: code_test.md
 
 theme: readthedocs
