@@ -14,7 +14,7 @@ TEST
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-# Vorbereitung
+### Vorbereitung
 
 - Virtuelle Maschine auf Basis von VirtualBox
 - Dimensionierung der virtuellen Maschine:
